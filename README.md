@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Miguel Díaz Pestana and I have been a senior programmer in .NET for more than 15 years.
+
+During this time I have worked with Microsoft technologies and products, such as Visual Studio, C #, Linq, SQL Server, T-SQL, WPF, Windows Forms, ASP.NET Core, Entity Framework, MVVM, MVC, etc.
+
+I am a serious and responsible professional, with the conviction that everything can be improved and that there is always more than one solution for the same problem.
+
+My greatest satisfaction as a programmer is receiving recognition from the client for a job well done.
+
 <!--
 **libypur2k20/libypur2k20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
